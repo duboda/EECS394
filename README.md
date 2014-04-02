@@ -1,6 +1,7 @@
 hello
 First
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 Second
 >>>>>>> parent of 76dda5c... Third
@@ -8,3 +9,5 @@ Second
 
 cacacaca
 
+=======
+>>>>>>> parent of d0e7164... ==
